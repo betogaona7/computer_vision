@@ -6,3 +6,9 @@ Exercises related to computer vision
 -*Circle-detection.ipynb* - A dectection program using The Hough Transform to detect consistent shapes, in this case circles.
 
 -*Face-detection.ipynb* - Face detection using OpenCV, especifically performed using a haarcascade detector. 
+
+-*Corner-detection.ipynb* - Detect corners (interection of two edges where gradient is high on all directions) using Harris Corner Detector.
+
+-*Contour-detection.ipynb* - Perfomed image segmentation by detecting contours. 
+
+-*K-means.ipybn* - Perfomed image segmentation using K-means clustering.
