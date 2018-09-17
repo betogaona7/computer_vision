@@ -11,4 +11,6 @@ Exercises related to computer vision
 
 -*Contour-detection.ipynb* - Perfomed image segmentation by detecting contours. 
 
--*K-means.ipybn* - Perfomed image segmentation using K-means clustering.
+-*K-means.ipynb* - Perfomed image segmentation using K-means clustering.
+
+-*ORB.ipýnb* - The ORB (Oriented Fast and Rotated Brief) algorithm implementation using OpenCV to perfom object detection.
