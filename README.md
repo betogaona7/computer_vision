@@ -14,3 +14,5 @@ Exercises related to computer vision
 -*K-means.ipynb* - Perfomed image segmentation using K-means clustering.
 
 -*ORB.ipýnb* - The ORB (Oriented Fast and Rotated Brief) algorithm implementation using OpenCV to perfom object detection.
+
+-*HOG.ipynb* - The HOG (Histogram of Oriented Gradients) algorithm explained and implemented using OpenCV 
